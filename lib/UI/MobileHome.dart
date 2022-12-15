@@ -213,7 +213,7 @@ class _MobileHomeState extends State<MobileHome> {
                         children: [
                           CustomText(
                             text:
-                                "Hello! I'm Tushar, a Freelancer based in Nashik, IN.\nI enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.\n",
+                                "Testing a change on this particular line.\n",
                             textsize: 16.0,
                             color: Color(0xff828DAA),
                             fontWeight: FontWeight.w500,

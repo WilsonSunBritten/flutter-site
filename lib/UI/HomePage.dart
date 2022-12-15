@@ -335,7 +335,7 @@ class _HomePageState extends State<HomePage> {
                               //About Me
                               _wrapScrollTag(
                                 index: 0,
-                                child: About(),
+                                child: Work(),
                               ),
                               SizedBox(
                                 height: size.height * 0.02,
